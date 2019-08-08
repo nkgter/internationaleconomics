@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Motivation }{3}{0}{1}
+\beamer@sectionintoc {2}{复习：货币与利率的决定}{11}{0}{2}
+\beamer@sectionintoc {3}{短期汇率理论2：粘性价格理论}{38}{0}{3}
+\beamer@sectionintoc {4}{短期汇率理论3：弹性价格论}{46}{0}{4}
+\beamer@sectionintoc {5}{长期+短期：汇率超调}{52}{0}{5}

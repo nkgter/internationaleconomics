@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{Overview of Global Migration}{7}{0}{2}
+\beamer@sectionintoc {3}{An Application of the Specific Factors Model: Migration}{13}{0}{3}

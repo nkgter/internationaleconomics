@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{From Snake to the EMS}{8}{0}{2}
+\beamer@sectionintoc {3}{From EMS to EMU}{18}{0}{3}
+\beamer@sectionintoc {4}{the Economics of Euro--- Theory of Optimum Currency Area }{26}{0}{4}
+\beamer@sectionintoc {5}{the Crisis of EU}{30}{0}{5}

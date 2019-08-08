@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{Exchange Rate}{10}{0}{2}
+\beamer@sectionintoc {3}{Foreign Exchange Market}{17}{0}{3}
+\beamer@subsectionintoc {3}{1}{Parties involved in 外汇市场}{18}{0}{3}
+\beamer@subsectionintoc {3}{2}{Transaction in 外汇市场}{24}{0}{3}

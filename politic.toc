@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{支持自由贸易的观点}{5}{0}{2}
+\beamer@sectionintoc {3}{反对自由贸易的观点}{16}{0}{3}
+\beamer@sectionintoc {4}{贸易政策的政治经济模型}{21}{0}{4}
+\beamer@subsectionintoc {4}{1}{Median voter theorem}{23}{0}{4}
+\beamer@subsectionintoc {4}{2}{Collective action}{26}{0}{4}
+\beamer@sectionintoc {5}{综合案例：美国的糖配额}{31}{0}{5}

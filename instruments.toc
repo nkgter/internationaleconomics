@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Motivation }{3}{0}{1}
+\beamer@sectionintoc {2}{The Instruments of Trade Policy}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Types of Protection and analytical tools}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{Effect of Tariff}{20}{0}{2}
+\beamer@subsectionintoc {2}{3}{Import Quotas}{32}{0}{2}
+\beamer@subsectionintoc {2}{4}{Export Subsidies}{37}{0}{2}
+\beamer@subsectionintoc {2}{5}{Other Instruments of Trade}{41}{0}{2}

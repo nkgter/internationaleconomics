@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Motivation }{3}{0}{1}
+\beamer@sectionintoc {2}{Definitions, Broad Facts on MNEs}{9}{0}{2}
+\beamer@sectionintoc {3}{Why Go Global?}{16}{0}{3}
+\beamer@subsectionintoc {3}{1}{Location}{18}{0}{3}
+\beamer@subsectionintoc {3}{2}{Internalization}{27}{0}{3}
+\beamer@subsectionintoc {3}{3}{offshoring outsourcing}{36}{0}{3}
+\beamer@sectionintoc {4}{The Economic Impact of MNEs }{40}{0}{4}

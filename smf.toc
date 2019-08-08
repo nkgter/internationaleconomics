@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{A Formal Model}{11}{0}{2}
+\beamer@sectionintoc {3}{Setup of the Model}{13}{0}{3}
+\beamer@sectionintoc {4}{Allocation of labor across sectors劳动力如何在两个部门进行配置}{29}{0}{4}
+\beamer@sectionintoc {5}{比较静态分析}{37}{0}{5}
+\beamer@subsectionintoc {5}{1}{Comparative Statics I: Price Change}{38}{0}{5}
+\beamer@subsectionintoc {5}{2}{Comparative Statics II: Factor Change}{44}{0}{5}
+\beamer@sectionintoc {6}{特定要素模型中的国际贸易}{47}{0}{6}
+\beamer@subsectionintoc {6}{1}{Effects of Tariff and rethinking Corn Laws}{55}{0}{6}

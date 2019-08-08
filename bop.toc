@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{National Income Accounting}{10}{0}{2}
+\beamer@sectionintoc {3}{Balance of Pyaments Accounting}{37}{0}{3}

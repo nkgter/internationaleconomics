@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{Ricardo's Insight}{8}{0}{2}
+\beamer@sectionintoc {3}{A Formal Ricardian Model}{25}{0}{3}
+\beamer@sectionintoc {4}{Gains From Trade}{44}{0}{4}
+\beamer@sectionintoc {5}{Extensions of the Ricardo Model（选修）}{59}{0}{5}
+\beamer@subsectionintoc {5}{1}{Introducing Non-Traded Goods}{60}{0}{5}
+\beamer@subsectionintoc {5}{2}{Introducing Multiple Goods }{68}{0}{5}
+\beamer@sectionintoc {6}{Further Empirical Evidence}{74}{0}{6}

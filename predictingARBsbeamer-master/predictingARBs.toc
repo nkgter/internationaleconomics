@@ -1,0 +1,16 @@
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Aging-related bugs}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{How to detect}{5}{0}{1}
+\beamer@sectionintoc {2}{Classifiers}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Metrics to use}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Results without new metrics}{9}{0}{2}
+\beamer@sectionintoc {3}{Attribute selection}{15}{0}{3}
+\beamer@subsectionintoc {3}{1}{Impact}{15}{0}{3}
+\beamer@sectionintoc {4}{New metrics}{20}{0}{4}
+\beamer@subsectionintoc {4}{1}{New metrics}{20}{0}{4}
+\beamer@subsectionintoc {4}{2}{Results}{23}{0}{4}
+\beamer@sectionintoc {5}{cross classification}{26}{0}{5}
+\beamer@subsectionintoc {5}{1}{cross-component}{26}{0}{5}
+\beamer@subsectionintoc {5}{2}{cross-project}{27}{0}{5}
+\beamer@sectionintoc {6}{Conclusion}{28}{0}{6}
+\beamer@subsectionintoc {6}{1}{Conclusion}{28}{0}{6}

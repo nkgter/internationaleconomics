@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{the Formal Model of H-O-攻击开始了}{16}{0}{2}
+\beamer@subsectionintoc {2}{1}{Assumptions}{17}{0}{2}
+\beamer@subsectionintoc {2}{2}{Factor Endowment and Relative Production: Rybczynski Theorem}{26}{0}{2}
+\beamer@subsectionintoc {2}{3}{Exposure to Trade: the Heckscher-Ohlin Theorem}{34}{0}{2}
+\beamer@sectionintoc {3}{Empirical Evidence}{39}{0}{3}
+\beamer@sectionintoc {4}{Distributive Effect of Trade}{55}{0}{4}
+\beamer@subsectionintoc {4}{1}{Stolper -Samuelson Theorem}{57}{0}{4}
+\beamer@subsectionintoc {4}{2}{Factor Price Equalization theorem}{62}{0}{4}

@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{宏观经济政策目标：内外平衡}{8}{0}{2}
+\beamer@sectionintoc {3}{金本位制：1870-1914}{11}{0}{3}
+\beamer@sectionintoc {4}{两次世界大战期间：1918-1939}{25}{0}{4}
+\beamer@sectionintoc {5}{布雷顿森林体系：1944-1973}{27}{0}{5}
+\beamer@sectionintoc {6}{Post-Bretton Woods Era}{40}{0}{6}

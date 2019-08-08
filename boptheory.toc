@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Motivation }{3}{0}{1}
+\beamer@sectionintoc {2}{The Multipliers Approach to the BOP}{9}{0}{2}
+\beamer@sectionintoc {3}{The Elasticity Approach to the BOP}{19}{0}{3}
+\beamer@sectionintoc {4}{The Absorption Approach to the BOP}{32}{0}{4}
+\beamer@sectionintoc {5}{The Monetary Approach to the BOP(Selective)}{45}{0}{5}

@@ -1,0 +1,132 @@
+\documentclass[10pt,hyperref={CJKbookmarks=true},xcolor=dvipsnames,aspectratio=169]{beamer}
+\usetheme[navigation]{UMONS}
+\usepackage[utf8]{inputenc}
+\usepackage{verbatim}
+\usepackage{ctex}
+
+\title[Predicting ARBs]{Predicting aging-related bugs using software complexity metrics}
+\author[B.Jason]{Jason \textsc{Bury}}
+\institute[]{%
+ Faculté des Sciences\\
+  Université de Mons
+  \\[2ex]
+  \includegraphics[height=4ex]{figures/UMONS}\hspace{2em}%
+  \raisebox{-1ex}{\includegraphics[height=6ex]{figures/UMONS_FS}}
+}
+
+\begin{document}
+\maketitle
+\section{Introduction}
+\subsection{Aging-related bugs}
+
+\begin{frame}
+ \frametitle{Aging-Related Bugs}
+ \framesubtitle{Mandelbug}
+ If
+ \begin{itemize}
+  \item A time lag between the fault activation and the failure occurence.
+  \item Bug influenced by timing of operations or order of operations or environment interactions.
+ \end{itemize}
+ \vspace{1cm}
+ \begin{tabular}{llll}
+  Then & $\Longrightarrow$ & \emph{Mandelbug} & :-( \\
+  Else & $\Longrightarrow$ & \emph{Bohrbugs} & :-) , can thus be easily isolated
+ \end{tabular}
+\end{frame}
+
+\begin{frame}
+ \frametitle{Aging-Related Bugs试试中文}
+ \framesubtitle{Aging-related mandelbug}
+ If Mandelbug and\\
+ \vspace{1cm}
+ The bug causes the accumulation of internal error states
+ \begin{center}
+  \large Or \normalsize
+ \end{center}
+ The running time increase the risk of the bug activation/propagation\\
+ \vspace{1cm}
+ Then $\Longrightarrow$ \emph{Aging-related Mandelbug} :'( \\
+ \small Also called \emph{Aging-related bug} or \alert{ARB}.\normalsize
+\end{frame}
+
+\begin{frame}
+ \frametitle{Aging-Related Bugs}
+ \framesubtitle{Examples}
+ \begin{exampleblock}{What can causes an ARB ?}
+  \begin{itemize}
+   \item Numerical error due to rounding or imprecision accrue over time
+   \item A malloc() without free()
+   \item A queue continuously increased
+   \item Size of ressource exceeded
+   \item ...
+  \end{itemize}
+ \end{exampleblock}
+\end{frame}
+
+\subsection{How to detect}
+\begin{frame}
+ \frametitle{How can we detect them ?}
+ short answer: \alert{Select metrics then use a classifier !}\\
+ But, there are remaining questions about that solution:\\
+ \begin{block}{Questions}
+  \begin{itemize}
+   \item Which metrics to use ?
+   \item New metrics ?
+   \item Which classifier to use ?
+   \item will be the classifier effective for all projects ?
+  \end{itemize}
+ \end{block}
+\end{frame}
+
+\begin{frame}
+ \frametitle{Project used as training set}
+ 3 complex projects will be used.\\
+ \begin{itemize}
+  \item Linux
+  \item MySQL
+  \item CARDAMOM, a middleware for air traffic control systems
+ \end{itemize}
+ \vspace{0.2cm}
+ ARBs are found manually.\\
+\end{frame}
+% middleware: un réseau d'échange d'informations entre différentes applications informatiques.
+
+\input{classifiers}
+
+\input{attributes}
+
+\input{newMetrics}
+
+\input{cross}
+
+\section{Conclusion}
+\subsection{Conclusion}
+\begin{frame}
+ \frametitle{Conclusion}
+ Predicting ARBs with software metrics is possible.\\
+ \vspace{1cm}
+ High PD: We can avoid inspecting files classified as non ARB-prone.\\
+ \vspace{1cm}
+ We have to check if caracteristics are similar before using a classifier for another project.
+\end{frame}
+
+\begin{frame}{What's International Trade About?}
+
+
+
+
+\begin{itemize}
+	\item Do you have any expectation for this course?
+	\item 迄今，你认为2018年经济领域发生的最significant的事是什么?
+	\item 如果你想赢，你必须先知道它是如何运作的
+\end{itemize}
+\begin{block}{2017年中国贸易情况}
+	2017年，中国\textbf{货物贸易总额27.79万亿人民币}，折合\textbf{4.105万亿美元}。其中，出口15.33万亿元，增长10.8\%；进口12.46万亿美元，增长20.9\%；贸易顺差2.87万亿美元，收窄14.2\%；\\
+	2017年，中国前三大贸易伙伴分别是\textbf{欧盟、美国和东盟}，三者合计占我国进出口总值的41.8\%;\\
+	2017年，中国\textbf{一般贸易}进出口15.66万亿元，占比56.4\%，贸易结构有所优化；\\
+	2017年，中国出口最多的产品是\textbf{机电类产品}，共出口8.95万亿，占比58.4\%，传统劳动密集型产品合计出口3.08万亿元，占比21.1\%；进口最多的三类商品是原油、铁矿石，汽车。\\
+\end{block}
+\end{frame}
+
+
+\end{document}

@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{UIP无抛补利率平价理论}{7}{0}{2}
+\beamer@sectionintoc {3}{comparative static比较静态分析}{23}{0}{3}
+\beamer@sectionintoc {4}{CIP有抛补利率平价理论}{27}{0}{4}

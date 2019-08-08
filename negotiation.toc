@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{贸易谈判的经济学分析}{3}{0}{1}
+\beamer@sectionintoc {2}{国际贸易协定的历史与现状}{19}{0}{2}
+\beamer@sectionintoc {3}{Preferential Trade Agreements特惠贸易协定}{33}{0}{3}

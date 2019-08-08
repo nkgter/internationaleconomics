@@ -1,0 +1,14 @@
+\frametitle{New metrics}
+ \begin{itemize}
+  \item \emph{DerefUse} : Number of times a pointer variable is dereferenced to write
+   \begin{exampleblock}{Dereferencing a structure member}
+    \begin{verbatim}typedef struct X { int a; int b; } X;
+X x;
+X* p = &x;
+p->a = 3.14159;\end{verbatim}
+   \end{exampleblock}
+  \item \emph{DerefSet} : Number of times a pointer variable is dereferenced to read
+   \begin{exampleblock}{Dereferencing \texttt{p} and read}
+    \begin{verbatim}printf("%d", p->a);\end{verbatim}
+   \end{exampleblock}
+ \end{itemize}
